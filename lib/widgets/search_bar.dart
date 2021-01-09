@@ -92,7 +92,7 @@ class SearchBar extends SearchDelegate {
                   Text(
                     suggestionList[index].content,
                     style: TextStyle(
-                      fontSize: 17,
+                      fontSize: 15,
                     ),
                     maxLines: 6,
                   ),
