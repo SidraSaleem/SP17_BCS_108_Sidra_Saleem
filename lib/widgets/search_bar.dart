@@ -87,7 +87,7 @@ class SearchBar extends SearchDelegate {
                     softWrap: false,
                   ),
                   SizedBox(
-                    height: 10,
+                    height: 12,
                   ),
                   Text(
                     suggestionList[index].content,
