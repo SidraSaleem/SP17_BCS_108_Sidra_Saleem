@@ -49,7 +49,7 @@ class SearchBar extends SearchDelegate {
     return Container(
       padding: EdgeInsets.only(
         top: 15,
-        right: 10,
+        right: 15,
         left: 10,
       ),
       child: StaggeredGridView.countBuilder(
