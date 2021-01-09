@@ -50,7 +50,7 @@ class SearchBar extends SearchDelegate {
       padding: EdgeInsets.only(
         top: 15,
         right: 15,
-        left: 10,
+        left: 15,
       ),
       child: StaggeredGridView.countBuilder(
         itemCount: suggestionList.length,
