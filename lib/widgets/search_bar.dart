@@ -68,7 +68,7 @@ class SearchBar extends SearchDelegate {
             },
             child: Container(
               decoration: BoxDecoration(
-                color: Colors.grey[300],
+                color: Colors.lightblue[200],
                 borderRadius: BorderRadius.circular(10),
               ),
               padding: EdgeInsets.all(15),
