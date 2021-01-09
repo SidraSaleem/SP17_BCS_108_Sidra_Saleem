@@ -50,7 +50,7 @@ class AddNewNotePage extends StatelessWidget {
               ),
               TextField(
                 style: TextStyle(
-                  fontSize: 22,
+                  fontSize: 25,
                 ),
                 controller: controller.contentController,
                 decoration: InputDecoration(
