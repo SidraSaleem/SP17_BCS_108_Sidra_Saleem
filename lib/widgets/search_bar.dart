@@ -48,7 +48,7 @@ class SearchBar extends SearchDelegate {
           ).toList();
     return Container(
       padding: EdgeInsets.only(
-        top: 10,
+        top: 15,
         right: 10,
         left: 10,
       ),
