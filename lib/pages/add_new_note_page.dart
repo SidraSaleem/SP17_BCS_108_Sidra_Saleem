@@ -42,7 +42,7 @@ class AddNewNotePage extends StatelessWidget {
                   hintStyle: TextStyle(
                     fontSize: 27,
                     fontWeight: FontWeight.bold,
-                    color: Colors.grey[600],
+                    color: Colors.yellow[700],
                     letterSpacing: 1,
                   ),
                   border: InputBorder.none,
